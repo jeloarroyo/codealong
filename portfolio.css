@@ -30,3 +30,20 @@ img{
   float:left;
   margin:1.66%;
 }
+.left{
+  float:left;
+}
+
+.right{
+  float:right;
+}
+
+.right ul{
+  list-style: none;
+}
+.right li{
+  margin-top:15px;
+  margin-right:10px;
+  display: inline-block;
+  padding-right:10px;
+}
